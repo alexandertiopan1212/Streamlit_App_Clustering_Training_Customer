@@ -1,7 +1,7 @@
 
-# 🚢 TRAINCLUST – Clustering Training Customers (POLTEKPEL Banten)
+# 🚢 TRAINCLUST – Clustering Training Customers
 
-TRAINCLUST is an interactive Streamlit-based application built to cluster training participants (cadets and alumni) of POLTEKPEL Banten using Age, Recency, Frequency, and Monetary (ARFM) features.
+TRAINCLUST is an interactive Streamlit-based application built to cluster training participants (cadets and alumni) of *** using Age, Recency, Frequency, and Monetary (ARFM) features.
 
 This app offers interactive visualizations, automated preprocessing, and clustering analysis using both **K-Means** and **K-Medoids** algorithms — all within an intuitive Google Sheets-like interface.
 
@@ -41,7 +41,12 @@ streamlit run main.py
 
 ## 🖼️ Screenshots
 
-(Space for inserting screenshots of clustering visualizations and ARFM charts)
+![image](https://github.com/user-attachments/assets/8d66a7cd-013b-4c45-a885-b9c42a3e275c)
+![image](https://github.com/user-attachments/assets/48561bac-92dd-47cd-8554-0911d8a0dbaa)
+![image](https://github.com/user-attachments/assets/af380a8f-1d69-47cf-b179-09682d3d17ae)
+![image](https://github.com/user-attachments/assets/73eac77b-ad0a-4a4e-9e11-1c1c8f941ec8)
+![image](https://github.com/user-attachments/assets/ad0e8634-562a-4521-8727-20962242250c)
+
 
 ## 📌 Use Cases
 
