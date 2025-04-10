@@ -39,9 +39,9 @@ def main():
     # img = Image.open('polos.png')
     # st.image(img, width=200)
     st.markdown(f'<h1 style="color:#E37236;font-size:48px;">{"TRAINCLUST"}</h1>', unsafe_allow_html=True)
-    st.header('_:brown[Aplikasi Cluster Training Pelayaran POLTEKPEL BANTEN]_')
+    st.header('_:brown[Aplikasi Cluster Training Pelayaran ***]_')
     st.write("""
-             Aplikasi ini digunakan untuk mengelompokkan peserta jasa training/sertifikasi pelayaran baik taruna/alumni POLTEKPEL BANTEN.
+             Aplikasi ini digunakan untuk mengelompokkan peserta jasa training/sertifikasi pelayaran baik taruna/alumni ***.
              Metode yang digunakan antara lain KMeans dan KMedoids berdasarkan fitur Age, Recency, Frequency, Monetary.
              """)
     
