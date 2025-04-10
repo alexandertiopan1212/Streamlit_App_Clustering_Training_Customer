@@ -36,8 +36,8 @@ def main():
         st.session_state.df_ARFM2 = pd.DataFrame()
 
     # Main Interface
-    img = Image.open('polos.png')
-    st.image(img, width=200)
+    # img = Image.open('polos.png')
+    # st.image(img, width=200)
     st.markdown(f'<h1 style="color:#E37236;font-size:48px;">{"TRAINCLUST"}</h1>', unsafe_allow_html=True)
     st.header('_:brown[Aplikasi Cluster Training Pelayaran POLTEKPEL BANTEN]_')
     st.write("""
